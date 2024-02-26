@@ -15,4 +15,9 @@ int main()
 	cout << "Masukan Panjang = ";
 	cin >> nPanjang;
 	cout << "Masukan Lebar = ";
+	cin >> nLebar;
+	nLuas = nPanjang * nLebar;
+	cout << "Luasnya adalah " << nLuas << endl;
 
+	("pasue")
+}//end
